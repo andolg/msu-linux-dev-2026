@@ -1,1 +1,1 @@
-Курс "Разработка программного обеспечения для GNU/Linux", 2026
+[Курс "Разработка программного обеспечения для GNU/Linux", 2026](http://uneex.ru/LecturesCMC/LinuxApplicationDevelopment2026)
